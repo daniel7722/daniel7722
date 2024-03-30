@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on building a scalable web app with Azure container instances<br>
-⭐️ I'm looking for help with TinyML<br>
+🔭 I'm currently working on researching efficient way to fine-tune deep learning model on MCU specifically Google Coral dev board<br>
+⭐️ I'm looking for help with Fine Tuning deep learning model<br>
 📌 I want to learn more about cloud computing and operating system<br>
-📚 I'm currently learning about Spring Boot<br>
+📚 I'm currently learning TinyML<br>
 💬 Ask me about anything!
 
 
